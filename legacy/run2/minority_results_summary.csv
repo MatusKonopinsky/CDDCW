@@ -1,0 +1,9 @@
+Dataset,Model,Avg_Minority_Precision,Avg_Minority_Recall,Avg_Minority_F1
+Agrawal_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.1242,0.9605,0.2200
+Agrawal_Imb9010,KUE,0.2857,0.0030,0.0060
+SEA_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.8049,0.9904,0.8880
+SEA_Imb9010,KUE,0.9386,0.3561,0.5163
+hyperplane_gradual_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.2487,0.9215,0.3917
+hyperplane_gradual_imb9010,KUE,0.6895,0.0968,0.1697
+rbf_drift_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.1027,0.9336,0.1851
+rbf_drift_imb9010,KUE,0.0000,0.0000,0.0000

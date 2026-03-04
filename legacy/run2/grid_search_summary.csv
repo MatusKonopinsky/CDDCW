@@ -1,0 +1,5 @@
+Dataset,Model,rwa_strength,enable_diversity,period,beta,theta,use_lifetime_trend,Avg_RWA,Std_RWA,Avg_AUC,Std_AUC,Avg_Kappa,Std_Kappa,Avg_Time,Avg_Memory
+Agrawal_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.5000,False,600.0000,1.5000,0.0200,True,0.8912,,0.7532,,0.0548,,838.2541,669.0217
+SEA_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.5000,False,600.0000,1.5000,0.0200,True,0.9887,,0.9990,,0.8743,,282.4613,357.1902
+hyperplane_gradual_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.5000,False,600.0000,1.5000,0.0200,True,0.8991,,0.9088,,0.2798,,1039.8757,939.0888
+rbf_drift_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,0.5000,False,600.0000,1.5000,0.0200,True,0.8520,,0.5391,,0.0088,,612.0487,557.1843

@@ -1,0 +1,53 @@
+========================================
+ZAČÍNA BEH EXPERIMENTU č. 1/1
+========================================
+
+====================
+Spracúva sa dataset: SEA_Imb9010 (Beh 1)
+====================
+--- Spúšťa sa evaluácia pre model: DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 ---
+SEA_Imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |#########################-----|  86% (17200/20000)
+WARNING: RuntimeWarning: overflow encountered in int_scalars (adwin.py:350)
+SEA_Imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |##############################| 100% (20000/20000)
+Model DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 dokončený. RWA: 0.9853, AUC: 0.9986, Čas: 550.48s, Pamäť: 372.04 kB
+--- Spúšťa sa evaluácia pre model: KUE ---
+SEA_Imb9010 | KUE |##############################| 100% (20000/20000)
+Model KUE dokončený. RWA: 0.4011, AUC: 0.9324, Čas: 41.26s, Pamäť: 217.50 kB
+
+====================
+Spracúva sa dataset: Agrawal_Imb9010 (Beh 1)
+====================
+--- Spúšťa sa evaluácia pre model: DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 ---
+Agrawal_Imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |##############################| 100% (20000/20000)
+Model DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 dokončený. RWA: 0.9057, AUC: 0.8041, Čas: 1634.91s, Pamäť: 571.37 kB
+--- Spúšťa sa evaluácia pre model: KUE ---
+Agrawal_Imb9010 | KUE |##############################| 100% (20000/20000)
+Model KUE dokončený. RWA: 0.1788, AUC: 0.7942, Čas: 67.15s, Pamäť: 184.17 kB
+
+====================
+Spracúva sa dataset: hyperplane_gradual_imb9010 (Beh 1)
+====================
+--- Spúšťa sa evaluácia pre model: DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 ---
+hyperplane_gradual_imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |#########################-----|  85% (17000/20000)
+WARNING: RuntimeWarning: overflow encountered in int_scalars (adwin.py:350)
+hyperplane_gradual_imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |##############################| 100% (20000/20000)
+Model DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 dokončený. RWA: 0.9036, AUC: 0.9130, Čas: 1845.90s, Pamäť: 683.32 kB
+--- Spúšťa sa evaluácia pre model: KUE ---
+hyperplane_gradual_imb9010 | KUE |##############################| 100% (20000/20000)
+Model KUE dokončený. RWA: 0.2249, AUC: 0.8804, Čas: 85.19s, Pamäť: 176.42 kB
+
+====================
+Spracúva sa dataset: rbf_drift_imb9010 (Beh 1)
+====================
+--- Spúšťa sa evaluácia pre model: DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 ---
+rbf_drift_imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |#########################-----|  85% (17000/20000)
+WARNING: RuntimeWarning: overflow encountered in int_scalars (adwin.py:350)
+rbf_drift_imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |##############################| 100% (20000/20000)
+Model DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 dokončený. RWA: 0.8536, AUC: 0.5423, Čas: 1188.19s, Pamäť: 462.90 kB
+--- Spúšťa sa evaluácia pre model: KUE ---
+WARNING: RuntimeWarning: overflow encountered in int_scalars (adwin.py:350)
+rbf_drift_imb9010 | DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 |##############################| 100% (20000/20000)
+Model DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02 dokončený. RWA: 0.8536, AUC: 0.5423, Čas: 1188.19s, Pamäť: 462.90 kB
+--- Spúšťa sa evaluácia pre model: KUE ---
+rbf_drift_imb9010 | KUE |##############################| 100% (20000/20000)
+Model KUE dokončený. RWA: 0.0987, AUC: 0.5326, Čas: 65.22s, Pamäť: 213.18 kB

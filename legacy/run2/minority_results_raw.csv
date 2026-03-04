@@ -1,0 +1,9 @@
+Run_ID,Dataset,Model,Minority_Class,Minority_Precision,Minority_Recall,Minority_F1_Score
+1,SEA_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,1,0.8049,0.9904,0.8880
+1,SEA_Imb9010,KUE,1,0.9386,0.3561,0.5163
+1,Agrawal_Imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,1,0.1242,0.9605,0.2200
+1,Agrawal_Imb9010,KUE,1,0.2857,0.0030,0.0060
+1,hyperplane_gradual_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,1,0.2487,0.9215,0.3917
+1,hyperplane_gradual_imb9010,KUE,1,0.6895,0.0968,0.1697
+1,rbf_drift_imb9010,DDCW_rwa0.5_noDiv_trend_p600_b1.5_t0.02,1,0.1027,0.9336,0.1851
+1,rbf_drift_imb9010,KUE,1,0.0000,0.0000,0.0000
